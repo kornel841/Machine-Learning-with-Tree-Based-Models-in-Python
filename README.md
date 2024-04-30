@@ -1,6 +1,6 @@
 # Machine-Learning-with-Tree-Based-Models-in-Python
 
-## Main goal of study:
+## Main goal of study: 
 
 Training different models on the same dataset, let each model make its predictions. 
 
